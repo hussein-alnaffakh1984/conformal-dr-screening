@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you refer to this work, please cite the manuscript (under review)."
+title: "Improving Per-Grade Conformal Coverage in Cross-Population Diabetic Retinopathy Screening via Class-Conditional Recalibration"
+authors:
+  - family-names: "Al Naffakh"
+    given-names: "Hussein Ali Hussein"
+    email: "hussein.alnaffakh@alkafeel.edu.iq"
+    affiliation: "Department of Medical Laboratory Techniques, University of Alkafeel, Najaf, Iraq"
+year: 2026
+notes: "Manuscript under review. DOI will be added upon publication."
